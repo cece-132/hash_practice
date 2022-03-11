@@ -1,0 +1,9 @@
+person = {
+"name": "john",
+is_alive: true,
+"height": "6 ft",
+"nationality": "american"
+}
+
+p person
+p person.keys, person.values
