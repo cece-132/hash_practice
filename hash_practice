@@ -7,3 +7,8 @@ is_alive: true,
 
 p person
 p person.keys, person.values
+
+person["weight"] = 200
+person["hair color"] = "black"
+
+p person
